@@ -10,7 +10,7 @@ omegaconf==2.2.3
 gradio==3.41.2
 opencv-contrib-python==4.8.0.74
 httpx==0.24.1
-onnxruntime==1.16.3
+onnxruntime==1.22.1
 timm==0.9.2
 # torchsde==0.2.5
 # safetensors==0.3.1
